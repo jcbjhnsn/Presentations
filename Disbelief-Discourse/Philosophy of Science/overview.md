@@ -14,6 +14,7 @@ The philosophy of science is concerned with the assumptions, foundations, method
 
 * Who is it about?
   * Humanity and the knowable
+  * Understanding the limits of the knowable
 * What happened?
   * Karl Popper was like FALSIFIABILITY, YO.
   * Bayes' theorem
