@@ -16,7 +16,7 @@ The philosophy of science is concerned with the assumptions, foundations, method
   * Humanity and the knowable
 * What happened?
   * Karl Popper was like FALSIFIABILITY, YO.
-  * Bayes showed up
+  * Bayes' theorem
 * When did it take place?
   * Early 20th Century
 * Where did it take place?
