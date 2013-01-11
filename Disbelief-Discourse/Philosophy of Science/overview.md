@@ -1,13 +1,19 @@
-enthusiasm
-eye contact
-ask questions
-solve real-world problems
-write down questions
+# meta goals
 
-Philosophy of Science
+* enthusiasm
+* eye contact
+* ask questions
+* solve real-world problems
+* write down questions
 
-Who is it about?
-What happened?
-When did it take place?
-Where did it take place?
-Why did it happen?
+# Philosophy of Science
+
+* Who is it about?
+  * Humanity and the knowable
+* What happened?
+* When did it take place?
+  * History
+* Where did it take place?
+  * The West :P
+* Why did it happen?
+  * Curiosity and desire to obstain legitemate knowledge. Endless OCD.
