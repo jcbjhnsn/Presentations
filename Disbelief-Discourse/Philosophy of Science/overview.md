@@ -12,18 +12,26 @@ The philosophy of science is concerned with the assumptions, foundations, method
 
 # Structure of Basics
 
-* Who is it about?
-  * Humanity and the knowable
-  * Understanding the limits of the knowable
-* What happened?
-  * Karl Popper was like FALSIFIABILITY, YO.
-  * Bayes' theorem
-* When did it take place?
-  * Early 20th Century
-* Where did it take place?
-  * The West :P
-* Why did it happen?
-  * Curiosity and desire to obtain legitimate knowledge. Endless OCD.
+## Who is it about?
+
+* Humanity and the knowable
+* Understanding the limits of the knowable
+
+## What happened?
+
+* Karl Popper was like FALSIFIABILITY, YO.
+* Bayes' theorem
+
+## When did it take place?
+
+* Early 20th Century
+## Where did it take place?
+
+* The West :P
+
+## Why did it happen?
+
+* Curiosity and desire to obtain legitimate knowledge. Endless OCD.
 
 
 
