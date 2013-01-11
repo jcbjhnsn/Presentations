@@ -11,8 +11,10 @@
 * Who is it about?
   * Humanity and the knowable
 * What happened?
+  * Karl Popper was like FALSIFIABILITY, YO.
+  * Bayes showed up
 * When did it take place?
-  * History
+  * Early 20th Centuary
 * Where did it take place?
   * The West :P
 * Why did it happen?
