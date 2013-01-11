@@ -11,6 +11,11 @@
 
 The philosophy of science is concerned with the assumptions, foundations, methods, implications of science, and with the use and merit of science. This discipline sometimes overlaps metaphysics and epistemology, viz., when it explores whether scientific results comprise a study of truth.[1][1]
 
+# Interweave story
+Optional
+
+Err...
+
 # Structure of Basics
 
 ## Who is it about?
