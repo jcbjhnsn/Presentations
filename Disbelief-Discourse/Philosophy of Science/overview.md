@@ -35,8 +35,12 @@ Err...
 ## Why did it happen?
 * Curiosity and desire to obtain legitimate knowledge. Endless OCD.
 
+
+
 ## Example
 
 ## Sources
 
 [1]: "http://en.wikipedia.org/wiki/Philosophy_of_science"
+[nos]: "http://www.amazon.com/Nonsense-Stilts-Tell-Science-Bunk/dp/0226667863"
+[Massimo-yt]: "https://www.youtube.com/watch?v=I-d7dbo-xag"
