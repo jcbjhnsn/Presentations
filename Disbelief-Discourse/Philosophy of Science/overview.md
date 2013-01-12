@@ -18,26 +18,21 @@ Err...
 
 # Structure of Basics
 
-## Who is it about?
-* Humanity and the knowable
-* Understanding the limits of the knowable
+## What is Science
+
+## Philosophy?! In my Science?!
 
 ## What happened?
 * Karl Popper was like FALSIFIABILITY, YO.
 * Bayes' theorem
 
-## When did it take place?
-* Early 20th Century
-
-## Where did it take place?
-* The West :P
-
-## Why did it happen?
-* Curiosity and desire to obtain legitimate knowledge. Endless OCD.
-
-
 
 ## Example
+
+### Newtonian Physics[3][Masimo-yt]
+
+
+
 
 ## Sources
 
