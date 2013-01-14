@@ -2,7 +2,7 @@
 
 https://www.youtube.com/watch?v=I-d7dbo-xag
 
-Explaination of the natural world
+The best-known and most effective predictive-model-generating tool of the natural world
 
 What are the limits of Science?
 What cannot be answered by science
