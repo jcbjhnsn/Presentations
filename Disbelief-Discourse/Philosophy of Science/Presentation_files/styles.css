@@ -69,7 +69,7 @@ body {
   -o-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
-
+/* =borders wut*/
   border-radius: 10px;
   -o-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -249,10 +249,10 @@ body {
 /* Styles for slides */
 
 .slides > article {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: '1Lato', "Segoe", "Segoe UI", sans-serif;
 
   color: rgb(102, 102, 102);
-  text-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+/*  text-shadow: 0 1px 1px rgba(0, 0, 0, .1);*/
 
   font-size: 30px;
   line-height: 36px;
@@ -572,10 +572,10 @@ article.smaller q::after {
 /* Builds */
 
 .build > * {
-  transition: opacity 0.5s ease-in-out 0.2s;
+  transition: opacity 0.5s ease-in-out 5.2s;
   -o-transition: opacity 0.5s ease-in-out 0.2s;
   -moz-transition: opacity 0.5s ease-in-out 0.2s;
-  -webkit-transition: opacity 0.5s ease-in-out 0.2s;
+  -webkit-transition: opacity 0.5s ease-in-out 5.2s;
 }
 
 .to-build {

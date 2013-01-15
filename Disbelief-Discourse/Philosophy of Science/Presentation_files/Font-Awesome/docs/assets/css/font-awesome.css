@@ -235,6 +235,13 @@ ul.icons li [class*=" icon-"] {
   -webkit-animation: spin 2s infinite linear;
   animation: spin 2s infinite linear;
 }
+.icon-spin-slow {
+  display: inline-block;
+  -moz-animation: spin 53s infinite linear;
+  -o-animation: spin 53s infinite linear;
+  -webkit-animation: spin 53s infinite linear;
+  animation: spin 53s infinite linear;
+}
 @-moz-keyframes spin {
   0% { -moz-transform: rotate(0deg); }
   100% { -moz-transform: rotate(359deg); }

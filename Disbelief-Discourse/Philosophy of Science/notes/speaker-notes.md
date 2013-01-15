@@ -1,6 +1,6 @@
 # TODO
 * Look up
-	* Bayesianism
+	* Bayesian probability
 	* Pessimistic Meta-Induction
 		* Realism/Anti-Realism
 		* Write my own opinion
@@ -129,6 +129,10 @@ The world Exists
  * Pessimistic meta-induction
 	 * Every past theory has been proven to be wrong. Therefore we have no reason to believe any current or future theory won't be proven wrong.
 	 * These theories might have immediate pragmatic value in the "human experience", however it is impossible to test the claim that they approximate the true nature of reality. Reality is fundamentally unknowable.
+
+## Additional schools of thought
+
+Bayesianism
 
 ### Opinion
 We have the world [box] it returns consistent results to the human experience
