@@ -1,0 +1,5 @@
+.slides.template-default > article:not(.nobackground):not(.biglogo) {
+  background-color: purple !important;
+  background-image: none;
+
+}
