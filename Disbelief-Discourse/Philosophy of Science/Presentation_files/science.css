@@ -1,5 +1,23 @@
-.slides.template-default > article:not(.nobackground):not(.biglogo) {
-  background-color: purple !important;
-  background-image: none;
+.template-science article.biglogo {
 
 }
+  article.title .icon.over {
+    font-size:600px;
+  }
+  .icon.under,
+  .icon.over
+  {
+    position: absolute;
+    left:50%;
+    top:50%;
+    margin-left:-.5em;
+    margin-top:-.52em;
+  }
+    .icon.over.icon-search {
+      margin-left:-.45em;
+    }
+    .icon.under.icon-beaker {
+      margin-left:-.63em;
+      margin-top:-.66em;
+      font-size:200px;
+    }
