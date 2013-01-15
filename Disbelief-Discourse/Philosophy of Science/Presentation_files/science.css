@@ -62,12 +62,46 @@
     margin-top: -.5em;
   }
 
+.slides > article.invert {
+    color:white;
+    background-color:#3e5159;
+  }
+  .slides > article.invert > * {
+    color:white !important;
+  }
+  article.invert.thank-you > .icon.over {
+    margin-left: -.37em;
+    margin-top: -.6em;
+  }
+/**/
+
+.slides > article.demarcation {
+  background-color:#c5f9ff;
+  padding-top:200px;
+}
+article.demarcation > .icon.half {
+  font-size:300px;
+}
+.demarcation > .line {
+  position:absolute;
+  left:50%;
+  top:152px;
+  height:400px;
+  width:30px;
+    margin-left:-15px;
+  background-color:#3c4b4d;
+  border-radius:20px;
+}
+
+/**/
 article.discuss.invert {
   background-color:#3d3f4d;
   color:white;
+  opacity:1;
 }
   article.discuss.invert > *  {
     color:white !important;
+    opacity:1.0 !important;
   }
 /* = content
 */
