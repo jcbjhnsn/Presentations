@@ -1,12 +1,22 @@
 # TODO
 * Look up
+	* Bayesianism
 	* Pessimistic Meta-Induction
 		* Realism/Anti-Realism
 		* Write my own opinion
 	* Demarcation
 	* Popper and Falsification
 	* Khun's Paradigm Shifts
-	* Slide Graphics
+* Make Slide Graphics
+* More Examples
+
+# meta goals
+
+* enthusiasm
+* eye contact
+* Tell the audience to write down questions
+* Tell the audience to not believe anything you say
+* solve real-world problems
 
 #Speaker's notes
 Philosophy in my Science?!
@@ -51,6 +61,10 @@ Philosophers can help justify scientific reasoning through skilled application o
 
 ### Demarcation Problem
 
+Telling the sense from the nonsense on stilts
+
+[nonsense on stilts](http://www.amazon.com/Nonsense-Stilts-Tell-Science-Bunk/dp/0226667863)
+
 ### What is Science anyways?
 * The best-known and most effective predictive-model-generating tool of the natural world
 * A process that
@@ -72,7 +86,7 @@ Philosophers can help justify scientific reasoning through skilled application o
 
 #### Induction
 
-* Science is inductive.
+* Science is inductive \[hume] [what about his fork?]
 	* All swans are white
 	* We can never tell if our observations are correct
 
@@ -80,8 +94,11 @@ Philosophers can help justify scientific reasoning through skilled application o
 
 * [Karl Popper](http://en.wikipedia.org/wiki/Karl_Popper "Wikipedia Entry: Karl Popper")
 	* Science according to Popper
+		* **Falsification**
 		* Science makes progress by throwing out the bad. (Falsification)
-			* Problems
+			* Pros:
+				* Rapid iteration, an extreme spirit of Reflective Equilibrium
+			* Cons
 				* Easy to "rescue" theories by changing them, instead of confronting the fundamental problems
 
 #### What cannot be answered by science
