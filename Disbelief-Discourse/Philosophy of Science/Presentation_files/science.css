@@ -94,6 +94,40 @@ article.demarcation > .icon.half {
 }
 
 /**/
+.slides > article.philo {
+  background-color:#ffc9f2;
+}
+
+.slides > article.philo > .icon.under, .slides > article.req > .icon.under {
+  margin-left: -.29em;
+  margin-top: -0.5em;
+  font-size: 10em;}
+
+.slides > article.req > .icon.over {
+  margin-left: -.42em;
+  font-size: 600px;
+}
+.slides > article.req > .icon.under {
+  background-color:#d5c9ff;
+  color:#403c4d;
+  opacity:1 !important;
+  border-radius:300px;
+}
+.slides > article.req {
+  background-color:#d5c9ff;
+
+}
+
+/**/
+
+.slides > article.science {
+  background-color:#c9fcff;
+}
+
+
+.slides > article.phischi {}
+
+/**/
 article.discuss.invert {
   background-color:#3d3f4d;
   color:white;
