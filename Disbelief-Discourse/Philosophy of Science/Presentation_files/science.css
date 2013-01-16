@@ -101,7 +101,12 @@ article.demarcation > .icon.half {
 .slides > article.philo > .icon.under, .slides > article.req > .icon.under {
   margin-left: -.29em;
   margin-top: -0.5em;
-  font-size: 10em;}
+  font-size: 10em;
+  }
+
+  .slides > article.req > .icon.under {
+    font-size: 5em;
+    }
 
 .slides > article.req > .icon.over {
   margin-left: -.42em;
