@@ -95,6 +95,8 @@ And The Nature of Science
 
 ### Philosophy of science slide
 
+So, back to Philosophy of Science.
+
 Philosophers can help justify scientific reasoning through skilled application of logic and formal reasoning.
 * Why does Science work?
 * How does it work?
@@ -112,10 +114,12 @@ Philosophers can help justify scientific reasoning through skilled application o
 
 Telling the sense from the nonsense on stilts
 
+The demarcation problem in the philosophy of science is about how to distinguish between science and nonscience,[1] and more specifically, between science and pseudoscience.[2][3] The debate continues after over a century of dialogue among philosophers of science and scientists in various fields, and despite broad agreement on the basics of scientific method.[4][5]
+
 [nonsense on stilts](http://www.amazon.com/Nonsense-Stilts-Tell-Science-Bunk/dp/0226667863)
 
 
-#### Popper's Science
+#### Popper's Science  
 * remember what I said about induction and swans?
 * [Karl Popper](http://en.wikipedia.org/wiki/Karl_Popper "Wikipedia Entry: Karl Popper")
 	* Science according to Popper
@@ -126,6 +130,20 @@ Telling the sense from the nonsense on stilts
 			* Cons
 				* Easy to "rescue" theories by changing them, instead of confronting the fundamental problems
 
+Falsifiability is the demarcation criterion proposed by Karl Popper as opposed to verificationism: 
+
+> "statements or systems of statements, in order to be ranked as scientific, must be capable of conflicting with possible, or conceivable observations".
+
+[15] Popper saw demarcation as a central problem in the philosophy of science. Unlike the Vienna Circle, Popper stated that his proposal was not a criterion of "meaningfulness".
+
+## Postpositivism and Kuhn
+
+Thomas Kuhn, an American historian and philosopher of science, is often connected with what has been called postpositivism or postempiricism. In his 1962 book The Structure of Scientific Revolutions, Kuhn divided the process of doing science into two different endeavors, which he called normal science and extraordinary science (which he sometimes also called "revolutionary science"). "In Kuhn's view, 'it is normal science, in which Sir Karl's sort of testing does not occur, rather than extraordinary science which most nearly distinguishes science from other enterprises'…"[15] That is, the utility of a scientific paradigm for puzzle-solving, which suggests solutions to new problems while continuing to satisfy all of the problems solved by the paradigm that it replaces.
+
+>Kuhn's view of demarcation is most clearly expressed in his comparison of astronomy with astrology. Since antiquity, astronomy has been a puzzle-solving activity and therefore a science. If an astronomer's prediction failed, then this was a puzzle that he could hope to solve for instance with more measurements or with adjustments of the theory. In contrast, the astrologer had no such puzzles since in that discipline "particular failures did not give rise to research puzzles, for no man, however skilled, could make use of them in a constructive attempt to revise the astrological tradition"… Therefore, according to Kuhn, astrology has never been a science.[15]
+*—Sven Ove Hansson, The Stanford Encyclopedia of Philosophy, "Science and Pseudo-Science"*
+
+Popper criticized Kuhn's demarcation criterion, saying that astrologers are engaged in puzzle solving, and that therefore Kuhn's criterion recognized astrology as a science. He stated that Kuhn's criterion leads to a "major disaster…[the] replacement of a rational criterion of science by a sociological one".[15]
 
 # [slide]
 
@@ -150,9 +168,6 @@ The world Exists
 #### What cannot be answered by science
 [empty]
 
-
-### Khun and Paradigm shifts
-[empty]
 
 **other options**
 * evolutionary epistemology
